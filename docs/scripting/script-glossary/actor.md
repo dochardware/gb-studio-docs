@@ -108,7 +108,7 @@ Launch a projectile from an actor in a specified direction. When a project colli
 - **Offset X**: The horizontal offset from the source actors position to start launching the projectile.  
 - **Offset Y**: The vertical offset from the source actors position to start launching the projectile.  
 - **Direction**: The direction to launch the projectile. Can either be a fixed direction or based on an actor's current direction.  
-- **Angle**: The angle to launch the projectile.  
+- **Angle**: The angle to launch the projectile. This is a value between 0 - 255.
 - **Direction Offset**: The distance the projectile should move from launch position in its launch direction before becoming visible.  
 - **Speed**: The movement speed.  
 - **Animation Speed**: The animation speed.  
